@@ -3,7 +3,7 @@
 ![Airbnb-NYC- image](https://github.com/user-attachments/assets/66dcab0c-bf43-4c2c-a5c1-5335f22aad3f)
 
 ## Table of contents
-- [Project Overview](#project-overview) 
+- [Project Description ](#project-description) 
 - [Data Sources](#data-sources)
   - [Metadata](#metadata)
 - [Tools](#tools)
