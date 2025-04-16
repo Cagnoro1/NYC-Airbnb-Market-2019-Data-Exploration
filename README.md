@@ -5,8 +5,8 @@
 ## Table of contents
 - [Project Description ](#project-description) 
 - [Data Source](#data-sources)
-- [Tools](#tools)
-- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Tools Used ](#tools-used)
+- [Data Cleaning ](#data-cleaning)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
 
@@ -37,3 +37,14 @@ The dataset was composed of:
 - reviews_per_month : number of reviews per month
 - calculated_host_listings_count : amount of listing per host
 - availability_365 : number of days when listing is available for booking
+
+  ## Tools Used
+  - Python
+  - Jupyter
+ 
+  ## Data Cleaning
+  * Handled missing data: Dropped null calues in "name", "host_name" and "review" related columns
+  * Fixed data types: Ensured price, minimum_nights, and availabilty_365 were numeric
+  * Removed outliers: Capped extreme prices
+  
+  
