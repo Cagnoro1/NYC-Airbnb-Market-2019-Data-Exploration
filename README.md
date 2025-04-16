@@ -21,7 +21,7 @@ This project explores the NYC Airbnb Market through data analysis, uncovering tr
 The data used for this analysis was collected from kaggle: https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
 
 The dataset was composed of: 
-- # id :# listing ID
+- id : listing ID
 - name : name of the listing
 - host_id : host ID
 - host_name : name of the host
@@ -40,13 +40,13 @@ The dataset was composed of:
 
   ## Tools Used
   - Python
-  - Jupyter
+  - Jupyter notebook
  
   ## Data Cleaning
-  * Handled missing data: Dropped null calues in name , host_name and reviews related columns
+  * Handled missing data: Dropped null calues in name, host_name, and reviews related columns
   * Removed outliers: Capped extreme prices
  
- ## Exploratory Data Analysis
+  ## Exploratory Data Analysis
  
   
   
