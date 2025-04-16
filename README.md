@@ -45,5 +45,8 @@ The dataset was composed of:
   ## Data Cleaning
   * Handled missing data: Dropped null calues in name , host_name and reviews related columns
   * Removed outliers: Capped extreme prices
+ 
+ ## Exploratory Data Analysis
+ 
   
   
