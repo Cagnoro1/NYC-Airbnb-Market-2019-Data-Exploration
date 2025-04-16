@@ -43,8 +43,7 @@ The dataset was composed of:
   - Jupyter
  
   ## Data Cleaning
-  * Handled missing data: Dropped null calues in "name", "host_name" and "review" related columns
-  * Fixed data types: Ensured price, minimum_nights, and availabilty_365 were numeric
+  * Handled missing data: Dropped null calues in name , host_name and reviews related columns
   * Removed outliers: Capped extreme prices
   
   
