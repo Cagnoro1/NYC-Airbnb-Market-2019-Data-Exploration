@@ -51,10 +51,10 @@ The dataset was composed of:
   - Python 3.x
   - Jupyter Notebook 
   - Required libraries:
-  - pandas
-  - numpy
-  - matplotlib
-  - seaborn
+      - pandas
+      - numpy
+      - matplotlib
+      - seaborn
  
   ## Analysis Steps
 
