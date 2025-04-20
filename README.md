@@ -9,9 +9,9 @@
 - [Tools Used ](#tools-used)
 - [Analysis Steps](#analysis-steps)
 - [Key Findings](#key-findings)
-- [Data Cleaning ](#data-cleaning)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Data Analysis](#data-analysis)
+- [Conclusion](#conclusion)
+- [Future Directions](#future-directions)
+- [Final Thoughts](#final-thoughts)
 
 ## Project Description
 This project explores the NYC Airbnb Market through data analysis, uncovering trends in pricing, availability, and neighborhood demand. Using Python (pandas, seaborn, matplotlib), the analysis follows a structured approach: 
