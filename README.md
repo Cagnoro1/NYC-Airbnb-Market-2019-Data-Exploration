@@ -5,7 +5,10 @@
 ## Table of contents
 - [Project Description ](#project-description) 
 - [Data Source](#data-sources)
+- [Dataset](#dataset)
 - [Tools Used ](#tools-used)
+- [Analysis Steps](#analysis-steps)
+- [Key Findings](#key-findings)
 - [Data Cleaning ](#data-cleaning)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
