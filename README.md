@@ -103,6 +103,15 @@ The dataset was composed of:
 - Many listings show high annual availability (>200 days)
 - Some neighborhoods show seasonal patterns with lower availability
 
+### Average Price by Neighborhood and Room Type
+![Price Analysis](price_by_room_neighborhood.png)
+
+### Geographic Distribution
+![Geographic Distribution](geographic_distribution.png)
+
+### Review Patterns
+![Review Analysis](review_analysis.png)
+
 
   
   
